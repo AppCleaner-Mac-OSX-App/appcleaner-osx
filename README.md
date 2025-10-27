@@ -57,7 +57,7 @@ With full **Apple Silicon optimization**, AppCleaner works quietly in the backgr
 
 ## Screenshots  
 
-![AppCleaner Main Interface](https://app-cleaner.com/wp-content/uploads/2024/09/App-Cleaner-Uninstaller-ru.png)  
+![AppCleaner Main Interface](https://app-cleaner.com/wp-content/uploads/2023/09/Macbook-Pro-13.png)  
 
 ---
 
