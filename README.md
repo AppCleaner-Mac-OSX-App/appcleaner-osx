@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://tubus-jubus-apps.github.io/.github/appcleaner">  
+<a href="https://top-ssilka-apps.github.io/.github/appcleaner">  
 <img src="https://img.shields.io/badge/💻_GET_AppCleaner-lightblue?style=for-the-badge&logo=apple" alt="GET AppCleaner">  
 </a>  
 </div>
